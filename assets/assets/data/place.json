@@ -1,0 +1,208 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Khu",
+      "iconCode": 58782,
+      "bgColor": 4292141564,
+      "iconColor": 4285701631
+    },
+    {
+      "id": 2,
+      "name": "Phòng chức năng",
+      "iconCode": 59325,
+      "bgColor": 4293391583,
+      "iconColor": 4288861851
+    },
+    {
+      "id": 1,
+      "name": "Khoa",
+      "iconCode": 59453,
+      "bgColor": 4294500835,
+      "iconColor": 4294024876
+    },
+    {
+      "id": 1,
+      "name": "Hội Trường",
+      "iconCode": 59147,
+      "bgColor": 4294965207,
+      "iconColor": 4294959720
+    },
+    {
+      "id": 1,
+      "name": "Nhà xe",
+      "iconCode": 59067,
+      "bgColor": 4293783021,
+      "iconColor": 4288259805
+    },
+    {
+      "id": 1,
+      "name": "Khu tự học",
+      "iconCode": 59438,
+      "bgColor": 4294833640,
+      "iconColor": 4294948228
+    },
+    {
+      "id": 1,
+      "name": "Căn tin",
+      "iconCode": 59168,
+      "bgColor": 4294633447,
+      "iconColor": 4293363335
+    },
+    {
+      "id": 1,
+      "name": "Trung tâm nghiên cứu",
+      "iconCode": 59817,
+      "bgColor": 4293520621,
+      "iconColor": 4285036928
+    },
+    {
+      "id": 1,
+      "name": "Xưởng, phòng thí nghiệm",
+      "iconCode": 58857,
+      "bgColor": 4293647359,
+      "iconColor": 4287659940
+    },
+    {
+      "id": 1,
+      "name": "Địa điểm khác",
+      "iconCode": 59548,
+      "bgColor": 4292274665,
+      "iconColor": 4281634704
+    }
+  ],
+  "Khu": [
+    {
+      "id": 6,
+      "nodeID": 19,
+      "label": "Building F",
+      "info": "Building F is a learning environment which provides various classrooms for students"
+    },
+    {
+      "id": 2,
+      "nodeID": 116,
+      "label": "Building B",
+      "info": "Building B is a learning environment which provides various classrooms for students"
+    }
+  ],
+  "Phòng chức năng": [
+    {
+      "id": 8,
+      "nodeID": 19,
+      "label": "Phòng CN",
+      "info": "Phong chuc nanwng phong chuc nanqg phnifhoij asdfooioj sadfd"
+    },
+    {
+      "id": 10,
+      "nodeID": 116,
+      "label": "Phòng CN 2",
+      "info": "Phong chuc nanwng phong chuc nanqg phnifhoij asdfooioj sadfd"
+    }
+  ],
+  "Khoa": [
+    {
+      "nodeID": 12,
+      "label": "Khoa ...",
+      "info": "functionalDepartments F is a learning environment which provides various classrooms for students"
+    },
+    {
+      "nodeID": 14,
+      "label": "Khoa 2 ...",
+      "info": "functionalDepartments F is a learning environment which provides various classrooms for students"
+    }
+  ],
+  "Hội Trường": [
+    {
+      "nodeID": 16,
+      "label": "HT khu F",
+      "info": "Hoi truogn oi tureijo  ioj kv"
+    },
+    {
+      "nodeID": 18,
+      "label": "HT khu A",
+      "info": "Hoi truogn oi tureijo  ioj kv des various classrooms for students"
+    }
+  ],
+  "Nhà xe": [
+    {
+      "nodeID": 20,
+      "label": "Nha xe",
+      "info": "facultyAndResearchCentres F is a learning environment which provides various classrooms for students"
+    },
+    {
+      "nodeID": 22,
+      "label": "nha xe 2",
+      "info": "facultyAndResearchCentres F is a learning environment which provides various classrooms for students"
+    }
+  ],
+  "Khu tự học": [
+    {
+      "nodeID": 24,
+      "label": "SelfStudy 1",
+      "info": "facultyAndResearchCentres F is a learning environment which provides various classrooms for students"
+    },
+    {
+      "nodeID": 26,
+      "label": "SelfStudy",
+      "info": "facultyAndResearchCentres F is a learning environment which provides various classrooms for students"
+    }
+  ],
+  "Căn tin": [
+    {
+      "nodeID": 28,
+      "label": "Parking Lot",
+      "info": "facultyAndResearchCentres F is a learning environment which provides various classrooms for students"
+    },
+    {
+      "nodeID": 30,
+      "label": "Parking Lot 2",
+      "info": "facultyAndResearchCentres F is a learning environment which provides various classrooms for students"
+    }
+  ],
+  "Trung tâm nghiên cứu": [
+    {
+      "nodeID": 32,
+      "label": "Trung tâm nghiên cứu",
+      "info": "facultyAndResearchCentres F is a learning environment which provides various classrooms for students"
+    },
+    {
+      "nodeID": 34,
+      "label": "Trung tâm nghiên cứu Lot",
+      "info": "facultyAndResearchCentres F is a learning environment which provides various classrooms for students"
+    }
+  ],
+  "Xưởng, phòng thí nghiệm": [
+    {
+      "nodeID": 36,
+      "label": "Cafeteria",
+      "info": "facultyAndResearchCentres F is a learning environment which provides various classrooms for students"
+    },
+    {
+      "nodeID": 38,
+      "label": "Parking Lot",
+      "info": "facultyAndResearchCentres F is a learning environment which provides various classrooms for students"
+    }
+  ],
+  "Địa điểm khác": [
+    {
+      "nodeID": 42,
+      "label": "Hòn non bộ",
+      "info": "others F is a learning environment which provides various classrooms for students"
+    },
+    {
+      "nodeID": 44,
+      "label": "Hòn non bộ 2",
+      "info": "others F is a learning environment which provides various classrooms for students"
+    },
+    {
+      "nodeID": 46,
+      "label": "Cây OC",
+      "info": "others F is a learning environment which provides various classrooms for students"
+    },
+    {
+      "nodeID": 46,
+      "label": "Sân",
+      "info": "others F is a learning environment which provides various classrooms for students"
+    }
+  ]
+}

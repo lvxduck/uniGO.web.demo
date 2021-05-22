@@ -1,0 +1,1755 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": 1,
+      "name": "Khu A",
+      "size": null,
+      "description": "Tập hợp các phòng chức năng, văn phòng khoa và khu tự học cho sinh viên",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Khu B",
+      "size": null,
+      "description": "Phục vụ công tác dạy và học. Khu giảng dạy tiếng Anh cho khoá sinh viên CLC.",
+      "images": [
+        "assets/images/khuA.png",
+        "assets/images/khuA.png",
+        "assets/images/khuA.png"
+      ],
+      "entranceNodes": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        38
+      ],
+      "engineeringDrawings": [
+        {
+          "floorNumber": 1,
+          "imgUrl": "assets/images/B_1.png",
+          "latitude1": 16.075434072969387,
+          "longitude1": 108.15141096684722,
+          "latitude2": 16.07467787885362,
+          "longitude2": 108.15197077395294
+        },
+        {
+          "floorNumber": 2,
+          "imgUrl": "assets/images/B_2.png",
+          "latitude1": 16.075434072969387,
+          "longitude1": 108.15141096684722,
+          "latitude2": 16.07467787885362,
+          "longitude2": 108.15197077395294
+        },
+        {
+          "floorNumber": 3,
+          "imgUrl": "assets/images/B_3.png",
+          "latitude1": 16.075434072969387,
+          "longitude1": 108.15141096684722,
+          "latitude2": 16.07467787885362,
+          "longitude2": 108.15197077395294
+        }
+      ],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            67,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122
+          ],
+          "stairs": [
+            {
+              "id": 4,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                111,
+                112,
+                113,
+                114
+              ]
+            },
+            {
+              "id": 5,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                115,
+                116,
+                117,
+                118
+              ]
+            },
+            {
+              "id": 6,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                119,
+                120,
+                121,
+                122
+              ]
+            }
+          ],
+          "places": [
+            {
+              "id": 124,
+              "name": "B101",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                93,
+                110
+              ]
+            },
+            {
+              "id": 125,
+              "name": "B102",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                94,
+                109
+              ]
+            },
+            {
+              "id": 126,
+              "name": "B103",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                95,
+                108
+              ]
+            },
+            {
+              "id": 127,
+              "name": "B104",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                96,
+                107
+              ]
+            },
+            {
+              "id": 128,
+              "name": "B105",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                97,
+                106
+              ]
+            },
+            {
+              "id": 129,
+              "name": "B106",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                98,
+                105
+              ]
+            },
+            {
+              "id": 130,
+              "name": "B107",
+              "description": "Nơi khám bệnh, nộp tiền Bảo hiểm Y tế",
+              "nameTag": "Tổ y tế",
+              "entranceNodes": [
+                99,
+                104
+              ]
+            },
+            {
+              "id": 131,
+              "name": "B108",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                100,
+                103
+              ]
+            },
+            {
+              "id": 132,
+              "name": "B109",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                101,
+                102
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "nodeIds": [
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166
+          ],
+          "stairs": [
+            {
+              "id": 16,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                155,
+                156,
+                157,
+                158
+              ]
+            },
+            {
+              "id": 17,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                159,
+                160,
+                161,
+                162
+              ]
+            },
+            {
+              "id": 18,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                163,
+                164,
+                165,
+                166
+              ]
+            }
+          ],
+          "places": [
+            {
+              "id": 133,
+              "name": "B201",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                137,
+                154
+              ]
+            },
+            {
+              "id": 134,
+              "name": "B202",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                138,
+                153
+              ]
+            },
+            {
+              "id": 135,
+              "name": "B203",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                139,
+                152
+              ]
+            },
+            {
+              "id": 136,
+              "name": "B204",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                140,
+                151
+              ]
+            },
+            {
+              "id": 137,
+              "name": "B205",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                141,
+                150
+              ]
+            },
+            {
+              "id": 138,
+              "name": "B206",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                142,
+                149
+              ]
+            },
+            {
+              "id": 139,
+              "name": "B207",
+              "description": "Nơi khám bệnh, nộp tiền Bảo hiểm Y tế",
+              "nameTag": "Tổ y tế",
+              "entranceNodes": [
+                143,
+                148
+              ]
+            },
+            {
+              "id": 140,
+              "name": "B208",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                144,
+                147
+              ]
+            },
+            {
+              "id": 141,
+              "name": "B209",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                145,
+                146
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "nodeIds": [
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201,
+            202,
+            203,
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210
+          ],
+          "stairs": [
+            {
+              "id": 19,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                199,
+                200,
+                201,
+                202
+              ]
+            },
+            {
+              "id": 20,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                203,
+                204,
+                205,
+                206
+              ]
+            },
+            {
+              "id": 21,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                207,
+                208,
+                209,
+                210
+              ]
+            }
+          ],
+          "places": [
+            {
+              "id": 142,
+              "name": "B301",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                181,
+                198
+              ]
+            },
+            {
+              "id": 143,
+              "name": "B302",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                182,
+                197
+              ]
+            },
+            {
+              "id": 144,
+              "name": "B303",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                183,
+                196
+              ]
+            },
+            {
+              "id": 145,
+              "name": "B304",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                184,
+                195
+              ]
+            },
+            {
+              "id": 146,
+              "name": "B305",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                185,
+                194
+              ]
+            },
+            {
+              "id": 129,
+              "name": "B306",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                186,
+                193
+              ]
+            },
+            {
+              "id": 130,
+              "name": "B307",
+              "description": "Nơi khám bệnh, nộp tiền Bảo hiểm Y tế",
+              "nameTag": "Tổ y tế",
+              "entranceNodes": [
+                187,
+                192
+              ]
+            },
+            {
+              "id": 131,
+              "name": "B308",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                188,
+                191
+              ]
+            },
+            {
+              "id": 132,
+              "name": "B309",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                189,
+                190
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Khu C",
+      "size": null,
+      "description": "Phục vụ công tác dạy và học Chương trình tiên tiến.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Khu D",
+      "size": null,
+      "description": "Khu thí nghiệm phục vụ các tiết học thực nghiệm của sinh viên.",
+      "images": [],
+      "entranceNodes": [
+        16
+      ],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [
+            16
+          ],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Khu E",
+      "size": null,
+      "description": "Phục vụ công tác dạy và học Chương trình CLC.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Khu F",
+      "size": null,
+      "description": "Phục vụ công tác dạy và học của cán bộ giáo viên và sinh viên.",
+      "images": [
+        "assets/images/khuA.png",
+        "assets/images/khuA.png",
+        "assets/images/khuA.png"
+      ],
+      "entranceNodes": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "engineeringDrawings": [
+        {
+          "floorNumber": 1,
+          "imgUrl": "assets/images/F_1.png",
+          "latitude1": 16.075967316474284,
+          "longitude1": 108.15271125564574,
+          "latitude2": 16.07533123244872,
+          "longitude2": 108.15145598182678
+        },
+        {
+          "floorNumber": 2,
+          "imgUrl": "assets/images/F_2.png",
+          "latitude1": 16.075967316474284,
+          "longitude1": 108.15271125564574,
+          "latitude2": 16.07533123244872,
+          "longitude2": 108.15145598182678
+        },
+        {
+          "floorNumber": 3,
+          "imgUrl": "assets/images/F_3.png",
+          "latitude1": 16.075967316474284,
+          "longitude1": 108.15271125564574,
+          "latitude2": 16.07533123244872,
+          "longitude2": 108.15145598182678
+        },
+        {
+          "floorNumber": 4,
+          "imgUrl": "assets/images/F_4.png",
+          "latitude1": 16.075967316474284,
+          "longitude1": 108.15271125564574,
+          "latitude2": 16.07533123244872,
+          "longitude2": 108.15145598182678
+        }
+      ],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92
+          ],
+          "stairs": [
+            {
+              "id": 1,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                12,
+                13,
+                14,
+                15
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                17,
+                18,
+                19,
+                20
+              ]
+            },
+            {
+              "id": 3,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                21,
+                22,
+                23,
+                24
+              ]
+            }
+          ],
+          "places": [
+            {
+              "id": 287,
+              "name": "F101",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                73,
+                92
+              ]
+            },
+            {
+              "id": 288,
+              "name": "F102",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                74,
+                91
+              ]
+            },
+            {
+              "id": 289,
+              "name": "F103",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                75,
+                90
+              ]
+            },
+            {
+              "id": 290,
+              "name": "F104",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                76,
+                89
+              ]
+            },
+            {
+              "id": 291,
+              "name": "F105",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                77,
+                88
+              ]
+            },
+            {
+              "id": 292,
+              "name": "F106",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                78,
+                87
+              ]
+            },
+            {
+              "id": 293,
+              "name": "F107",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                79,
+                86
+              ]
+            },
+            {
+              "id": 294,
+              "name": "F108",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                80,
+                85
+              ]
+            },
+            {
+              "id": 295,
+              "name": "F109",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                81,
+                84
+              ]
+            },
+            {
+              "id": 296,
+              "name": "F110",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                82,
+                83
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "nodeIds": [
+            211,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235,
+            236,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242,
+            243,
+            244,
+            245,
+            246,
+            247,
+            248,
+            249,
+            250,
+            251,
+            252,
+            253,
+            254,
+            255
+          ],
+          "stairs": [
+            {
+              "id": 7,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                222,
+                223,
+                224,
+                225
+              ]
+            },
+            {
+              "id": 8,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                226,
+                227,
+                228,
+                229
+              ]
+            },
+            {
+              "id": 9,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                230,
+                231,
+                232,
+                233
+              ]
+            }
+          ],
+          "places": [
+            {
+              "id": 297,
+              "name": "F201",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                236,
+                255
+              ]
+            },
+            {
+              "id": 298,
+              "name": "F202",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                237,
+                254
+              ]
+            },
+            {
+              "id": 299,
+              "name": "F203",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                238,
+                253
+              ]
+            },
+            {
+              "id": 300,
+              "name": "F204",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                239,
+                252
+              ]
+            },
+            {
+              "id": 301,
+              "name": "F205",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                240,
+                251
+              ]
+            },
+            {
+              "id": 302,
+              "name": "F206",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                241,
+                250
+              ]
+            },
+            {
+              "id": 303,
+              "name": "F207",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                242,
+                249
+              ]
+            },
+            {
+              "id": 304,
+              "name": "F208",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                243,
+                248
+              ]
+            },
+            {
+              "id": 305,
+              "name": "F209",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                244,
+                247
+              ]
+            },
+            {
+              "id": 306,
+              "name": "F210",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                245,
+                246
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "nodeIds": [
+            256,
+            257,
+            258,
+            259,
+            260,
+            261,
+            262,
+            263,
+            264,
+            265,
+            266,
+            267,
+            268,
+            269,
+            270,
+            271,
+            272,
+            273,
+            274,
+            275,
+            276,
+            277,
+            278,
+            279,
+            280,
+            281,
+            282,
+            283,
+            284,
+            285,
+            286,
+            287,
+            288,
+            289,
+            290,
+            291,
+            292,
+            293,
+            294,
+            295,
+            296,
+            297,
+            298,
+            299,
+            300
+          ],
+          "stairs": [
+            {
+              "id": 10,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                267,
+                268,
+                269,
+                270
+              ]
+            },
+            {
+              "id": 11,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                271,
+                272,
+                273,
+                274
+              ]
+            },
+            {
+              "id": 12,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                275,
+                276,
+                277,
+                278
+              ]
+            }
+          ],
+          "places": [
+            {
+              "id": 307,
+              "name": "F301",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                281,
+                300
+              ]
+            },
+            {
+              "id": 308,
+              "name": "F302",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                282,
+                299
+              ]
+            },
+            {
+              "id": 309,
+              "name": "F303",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                283,
+                298
+              ]
+            },
+            {
+              "id": 310,
+              "name": "F304",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                284,
+                297
+              ]
+            },
+            {
+              "id": 311,
+              "name": "F305",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                285,
+                296
+              ]
+            },
+            {
+              "id": 312,
+              "name": "F306",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                286,
+                295
+              ]
+            },
+            {
+              "id": 313,
+              "name": "F307",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                287,
+                294
+              ]
+            },
+            {
+              "id": 314,
+              "name": "F308",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                288,
+                293
+              ]
+            },
+            {
+              "id": 315,
+              "name": "F309",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                289,
+                292
+              ]
+            },
+            {
+              "id": 316,
+              "name": "F310",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                290,
+                291
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "nodeIds": [
+            301,
+            302,
+            303,
+            304,
+            305,
+            306,
+            307,
+            308,
+            309,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318,
+            319,
+            320,
+            321,
+            322,
+            323,
+            324,
+            325,
+            326,
+            327,
+            328,
+            329,
+            330,
+            331,
+            332,
+            333,
+            334,
+            335,
+            336,
+            337,
+            338,
+            339,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345
+          ],
+          "stairs": [
+            {
+              "id": 13,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                312,
+                313,
+                314,
+                315
+              ]
+            },
+            {
+              "id": 14,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                316,
+                317,
+                318,
+                319
+              ]
+            },
+            {
+              "id": 15,
+              "name": "Cầu thang",
+              "description": "Nấc thang lên thiên đường",
+              "nodeIds": [
+                320,
+                321,
+                322,
+                323
+              ]
+            }
+          ],
+          "places": [
+            {
+              "id": 277,
+              "name": "F401",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                326,
+                345
+              ]
+            },
+            {
+              "id": 278,
+              "name": "F402",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                327,
+                344
+              ]
+            },
+            {
+              "id": 279,
+              "name": "F403",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                328,
+                343
+              ]
+            },
+            {
+              "id": 280,
+              "name": "F404",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                329,
+                342
+              ]
+            },
+            {
+              "id": 281,
+              "name": "F405",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                330,
+                341
+              ]
+            },
+            {
+              "id": 282,
+              "name": "F406",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                331,
+                340
+              ]
+            },
+            {
+              "id": 283,
+              "name": "F407",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                332,
+                339
+              ]
+            },
+            {
+              "id": 284,
+              "name": "F408",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                333,
+                338
+              ]
+            },
+            {
+              "id": 285,
+              "name": "F409",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                334,
+                337
+              ]
+            },
+            {
+              "id": 286,
+              "name": "F410",
+              "description": null,
+              "nameTag": null,
+              "entranceNodes": [
+                335,
+                336
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Khu G",
+      "size": null,
+      "description": "Khu thí nghiệm phục vụ các tiết học thực nghiệm của sinh viên.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Khu H",
+      "size": null,
+      "description": "Phục vụ công tác dạy và học của cán bộ giáo viên và sinh viên. ",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Khu I",
+      "size": null,
+      "description": "Trực thuộc khoa Điện.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Khu K",
+      "size": null,
+      "description": "Khu thí nghiệm phục vụ các tiết học thực nghiệm của sinh viên.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Khu M",
+      "size": null,
+      "description": "Khu nghiên cứu Việt Cao - Việt Mỹ ",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Khu S - Smart Building",
+      "size": null,
+      "description": "Nơi làm việc của các phòng, viện KHCN, chương trình sau Đại Học Tập trung các phòng thí nghiệm trọng điểm, phòng làm việc của các giáo sư, các nhóm nghiên cứu.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "PFIEV",
+      "size": null,
+      "description": "Phục vụ công tác dạy và học của cán bộ giáo viên và sinh viên khoa FAST.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Trung tâm Hỗ trợ Sinh viên và Quan hệ doanh nghiệp",
+      "size": null,
+      "description": "Hỗ trợ sinh viên tìm kiếm các nguồn học bổng, tài trợ. Thiết lập quan hệ giữa nhà trường với các doanh nghiệp, giới thiệu việc làm cho sinh viên.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Trung tâm học liệu truyền thông",
+      "size": null,
+      "description": "Thực hiện chức năng lưu trữ và cung cấp thông tin, quản lý các hoạt động truyền thông  phục vụ cho công tác đào tạo và nghiên cứu khoa học.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Trung tâm Tin học Bách Khoa ",
+      "size": null,
+      "description": "Đơn vị đào tạo và tổ chức thi Tin học văn phòng, Tin học chuyên ngành với mục đích đáp ứng chuẩn đầu ra cho cán bộ, công chức viên chức, sinh viên.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Trung tâm Khoa học công nghệ và tư vấn đầu tư",
+      "size": null,
+      "description": "Nghiên cứu khoa học, chuyển giao công nghệ với các đối tác. Thẩm định, thẩm tra, tư vấn quản lý chi phí đầu tư xây dựng các dự án.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Trung tâm Nghiên cứu bảo vệ môi trường",
+      "size": null,
+      "description": "Điều tra, nghiên cứu đánh giá ô nhiễm đề ra các giải pháp bảo vệ môi trường. Thông tin, tư vấn chuyển giao công nghệ, đào tạo bồi dưỡng nghiệp vụ.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Trung tâm Nghiên cứu điện điện tử",
+      "size": null,
+      "description": "Trung tâm nghiên cứu thuộc khoa Điện.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Trung tâm Nghiên cứu ứng dụng và tư vấn kỹ thuật nền móng công trình",
+      "size": null,
+      "description": "Khảo sát, lập dự án các công trình xây dựng. Thiết kế quy hoạch hạ tầng kỹ thuật đô thị, nông thôn và khu công nghiệp. Kiểm định chất lượng, quản lý dự án đầu tư xây dựng công trình.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Trung tâm Nguyên cứu thiết bị áp lực và năng lượng mới",
+      "size": null,
+      "description": "Nguyên cứu khoa học các thiết bị áp lực và năng lượng mới, chuyển giao công nghệ.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Trung tâm Nghiên cứu ứng dụng thiết bị và công nghệ cơ khí",
+      "size": null,
+      "description": "Nguyên cứu khoa học và ứng dụng thiết bị và công nghệ cơ khí, chuyển giao công nghệ.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Trung tâm Nghiên cứu ứng dụng năng lượng thay thế",
+      "size": null,
+      "description": "Nghiên cứu khoa học và thử nghiệm động cơ chạy nguyên liệu mới, chuyển giao công nghệ.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Trung tâm thí nghiệm động cơ và ô tô",
+      "size": null,
+      "description": "Phục vụ công tác đào tạo, sinh viên thực tập được kiểm tra kiến thức chuyên môn và  hướng dẫn thao tác tháo lắp sửa chữa trên các mô hình mới.",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Khác",
+      "size": null,
+      "description": "",
+      "images": [],
+      "entranceNodes": [],
+      "floors": [
+        {
+          "number": 1,
+          "nodeIds": [],
+          "stairs": [],
+          "places": []
+        }
+      ]
+    }
+  ]
+}
