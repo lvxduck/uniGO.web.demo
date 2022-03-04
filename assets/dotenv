@@ -1,0 +1,3 @@
+CLIENT_URL = https://api.unigo.pro/api
+LANDING_PAGE_URL = https://unigo.pro
+HIVE_BOX_NAME = cache
